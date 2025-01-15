@@ -14,7 +14,6 @@ This project explores the development of algorithms to help a treasure hunter co
 
 ## Requirements
 - **C Compiler**: Any standard C compiler (e.g., GCC).
-- 
 ---
 
 ## Installation
