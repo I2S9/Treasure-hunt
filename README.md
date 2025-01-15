@@ -14,8 +14,10 @@ This project explores the development of algorithms to help a treasure hunter co
 
 ## Requirements
 - **C Compiler**: Any standard C compiler (e.g., GCC).
+For GCC installation, refer to the official guide: [GCC Installation Guide](https://gcc.gnu.org/install/)
+
 ---
 
 ## Installation
 1. Download or clone the repository.
-2. Compile the code using the provided `Makefile`
+2. Compile the code using the provided `Makefile` 
